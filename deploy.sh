@@ -8,7 +8,7 @@ npm run docs:build
 
 # 进入生成的文件夹
 echo '进入文件夹'
-cd /dist
+cd dist
 
 git init
 git add -A
